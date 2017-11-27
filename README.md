@@ -6,7 +6,3 @@ El listado de archivos utilizado se encuentra claramente detallado en el Anális
 http://www.properati.com.ar/data/
 
 ---------------------------------------------------------
-
-Los archivos .pdf (notebook impreso) y .ipynb varían únicamente en cuestiones de indentación y ancho de la hoja utilizada. Esto se debe a una serie de problemas que se nos presentaron a la hora de imprimir el notebook como pdf usando LaTex. El contenido de ambos archivos es esencialmente el mismo
-
-
